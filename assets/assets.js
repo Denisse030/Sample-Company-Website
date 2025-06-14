@@ -132,6 +132,9 @@ export const serviceData = [
     { title: 'Service 1', description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia fugit quaerat aliquam maiores nisi repellat accusamus non velit nemo sit! Maxime voluptatum ut reiciendis laudantium eveniet animi nemo incidunt dolor.'},
     { title: 'Service 2', description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia fugit quaerat aliquam maiores nisi repellat accusamus non velit nemo sit! Maxime voluptatum ut reiciendis laudantium eveniet animi nemo incidunt dolor.'}, 
     { title: 'Service 3', description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia fugit quaerat aliquam maiores nisi repellat accusamus non velit nemo sit! Maxime voluptatum ut reiciendis laudantium eveniet animi nemo incidunt dolor.' },
+    { title: 'Service 4', description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia fugit quaerat aliquam maiores nisi repellat accusamus non velit nemo sit! Maxime voluptatum ut reiciendis laudantium eveniet animi nemo incidunt dolor.' },
+    { title: 'Service 5', description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia fugit quaerat aliquam maiores nisi repellat accusamus non velit nemo sit! Maxime voluptatum ut reiciendis laudantium eveniet animi nemo incidunt dolor.' },
+    { title: 'Service 6', description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia fugit quaerat aliquam maiores nisi repellat accusamus non velit nemo sit! Maxime voluptatum ut reiciendis laudantium eveniet animi nemo incidunt dolor.' },
 ];
 
 export const infoList = [
