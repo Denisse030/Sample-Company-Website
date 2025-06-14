@@ -1,65 +1,89 @@
-# Portfolio-DBG
+# Sample Company Website
 
-Hello, my name is Denisse! Welcome to my portfolio :) This project is built using [Next.js](https://nextjs.org/), a React framework that enables server-side rendering and static site generation. This portfolio showcases my projects, skills, and experiences as a developer. It's designed to provide a comprehensive overview of my work and capabilities.
+A modern and responsive company website designed and developed by [Denisse Benito](https://github.com/Denisse030). This project includes core pages like Home, About, Services, Portfolio, and Contact, along with an interactive service slider built with Swiper.js. Ideal as a template for startups, small businesses, or personal brands.
 
-## Features
+## 🔧 Features
 
-- **Responsive Design**: Optimized for various device sizes.
-- **Dynamic Content**: Easily update projects and information.
-- **Fast Performance**: Leveraging Next.js for efficient rendering.
+- Fully responsive layout for desktop, tablet, and mobile
+- Home, About, Services, Portfolio, and Contact sections
+- Swiper.js service slider with custom navigation arrows
+- Dark mode support
+- Clean and scalable design structure
+- Contact form (front-end only)
+- Tailwind CSS for styling
 
-## Getting Started
+---
 
-To get a local copy up and running, follow these steps.
+## 🧱 Built With
 
-### Prerequisites
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- [Swiper.js](https://swiperjs.com/react)  
+- Tailwind CSS  
+- React
+---
 
-Ensure you have the following installed:
+## 📁 Folder Structure
 
-- [Node.js](https://nodejs.org/) (v14 or later)
-- npm (comes with Node.js)
+```
 
-### Installation
+Sample-Company-Website/
+├── public/
+├── assets/
+│   └── assets.js         # serviceData and static paths
+├── components/
+│   └── Services.tsx      # Swiper-based services section
+├── styles/
+│   └── Services.css      # Swiper navigation styling
+├── pages/
+│   └── index.tsx         # Main layout
+├── README.md
 
-1. **Clone the repository:**
+````
 
-   ```bash
-   git clone https://github.com/Denisse030/denissebenito_portfolio.git
-   cd denissebenito_portfolio
-   ```
+---
 
-2. **Install dependencies:**
+## 🧪 Getting Started
 
-   ```bash
-   npm install
+### 1. Clone the repository
+```bash
+git clone https://github.com/Denisse030/Sample-Company-Website.git
+cd Sample-Company-Website
+````
 
+### 2. Install dependencies
 
-### Usage
+```bash
+npm install
+```
 
-1. **Start the development server:**
+### 3. Run locally
 
-   ```bash
-   npm run dev
+```bash
+npm run dev
+```
 
+---
 
-2. **Open your browser:**
+## 🎯 Customization
 
-   Navigate to [http://localhost:3000](http://localhost:3000) to view the portfolio.
+To personalize for your own brand or clients:
 
-3. **Editing:**
+* Replace company name/logo in the header
+* Add or modify services in `serviceData`
+* Style `Services.css` for custom arrows or layout
+* Hook up the contact form to Formspree, EmailJS, or a backend
 
-   Modify `app/page.js` to update the content. The page auto-updates as you edit the file.
+---
 
-## Learn More
+## 👩🏻‍💻 Author
 
-To learn more about Next.js, consider the following resources:
+**Denisse Benito Gutierrez**
+🔗 [GitHub](https://github.com/Denisse030)
 
-- [Next.js Documentation](https://nextjs.org/docs) – Learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) – An interactive Next.js tutorial.
+---
 
-## Acknowledgments
-This portfolio was created with guidance from GreatStack on YouTube. Watch the tutorial [here](https://www.youtube.com/watch?v=Y2kGqbzvAn4&t=10171s/)!
+## 📝 License
 
-## Contact
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/denisse-benito/) or [email](mailto:denissebg03@gmail.com).
+This project is for educational, personal, or freelance use only. For commercial use or redistribution, contact the author.
