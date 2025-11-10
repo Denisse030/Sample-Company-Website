@@ -24,7 +24,7 @@ const Work = (isDarkMode) => {
                                         href={project.link}
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="hover:underline text-[#0077b3]"
+                                        className="hover:underline text-[#501249]"
                                     >
                                         {project.title}
                                     </a>

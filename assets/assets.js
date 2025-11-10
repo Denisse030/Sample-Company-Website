@@ -72,61 +72,29 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Work 1',
+        title: 'Haircare',
         description: 'description',
         bgImage: '/work-2.png',
         // link: 'link to reel',
     },
     {
-        title: 'Work 2',
+        title: 'Skincare',
         description: 'description',
         bgImage: '/work-4.png',
         // link: 'link to picture pop up',
     },
     {
-        title: 'Work 3',
+        title: 'Makeup',
         description: 'description',
         bgImage: '/work-3.png',
     },
     {
-        title: 'Work 4',
+        title: 'Nail Art',
         description: 'description',
         bgImage: '/work-1.png',
         // link: '',
     },
 ]
-    // {
-    //     title: 'E-Commerce Website',
-    //     description: 'MERN Stack, Web Design',
-    //     bgImage: '/work-2.png',
-    // },
-    // {
-    //     title: 'Wine Website',
-    //     description: 'Figma App to Web Design',
-    //     bgImage: '/work-3.png',
-    // },
-    // // {
-    //     title: 'Social Media Clone Website',
-    //     description: 'Web Design',
-    //     bgImage: '/work-4.png',
-    // },
-    // {
-    //     title: 'Game Center',
-    //     description: 'Interactive Gaming Hub',
-    //     bgImage: '/work-1.png',
-    // },
-    // {
-    //     title: 'Resturant Website',
-    //     description: 'Web Design',
-    //     bgImage: '/work-3.png',
-    // },
-//     {
-//         title: 'Movie Catalog',
-//         description: 'Web Design',
-//         bgImage: '/work-4.png',
-//         link: 'https://github.com/Denisse030/Movie-Catalog.git',
-//     },
-// ]
 
 export const serviceData = [
     { title: 'Service 1', description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia fugit quaerat aliquam maiores nisi repellat accusamus non velit nemo sit! Maxime voluptatum ut reiciendis laudantium eveniet animi nemo incidunt dolor.'},

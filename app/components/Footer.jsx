@@ -15,10 +15,10 @@ const Footer = ({isDarkMode}) => {
         <div className='text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6 text-black dark:text-white'>
             <p>@ 2025 Denisse Benito. All rights reserved.</p>
             <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
-                <li><a target='_blank' href="https://www.instagram.com/" className='hover:underline text-[#0077b3]'>Instagram</a></li>
-                <li><a target='_blank' href="https://www.facebook.com/" className='hover:underline text-[#0077b3]'>Facebook</a></li>
-                <li><a target='_blank' href="https://www.tiktok.com/" className='hover:underline text-[#0077b3]'>TikTok</a></li>
-                <li><a target='_blank' href="https://www.youtube.com/" className='hover:underline text-[#0077b3]'>YouTube</a></li>
+                <li><a target='_blank' href="https://www.instagram.com/" className='hover:underline text-[#501249] dark:text-[white]'>Instagram</a></li>
+                <li><a target='_blank' href="https://www.facebook.com/" className='hover:underline text-[#501249] dark:text-[white]'>Facebook</a></li>
+                <li><a target='_blank' href="https://www.tiktok.com/" className='hover:underline text-[#501249] dark:text-[white]'>TikTok</a></li>
+                <li><a target='_blank' href="https://www.youtube.com/" className='hover:underline text-[#501249] dark:text-[white]'>YouTube</a></li>
             </ul>
         </div>
     </div>
