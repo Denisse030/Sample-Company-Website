@@ -75,13 +75,13 @@ export const workData = [
         title: 'Haircare',
         description: 'description',
         bgImage: '/work-2.png',
-        // link: 'link to reel',
+        link: 'https://dbghaircare.my.canva.site/',
     },
     {
         title: 'Skincare',
         description: 'description',
         bgImage: '/work-4.png',
-        // link: 'link to picture pop up',
+        //link: 'link to picture pop up',
     },
     {
         title: 'Makeup',
